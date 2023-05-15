@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(to top, #fbc2eb 100%, #a6c1ee 100%);
+}
+.col-md-6{
+    border: 5px solid black;
+    margin-top: 210px !important;
+    padding: 30px;
+    
+    
+    
+}
+button{
+    margin: 10px !important;
+    border: 2px solid black !important;
+    
+}
+h1{
+    font-weight: bolder !important;
+    margin: 15px !important;
+}
